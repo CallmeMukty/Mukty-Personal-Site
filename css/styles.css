@@ -113,7 +113,8 @@ hr {
 }
 
 a {
-  color: #11999E;
+  <!--changed color: #11999E;-->
+  color:#EAF6F6;
   text-decoration: none;
   font-family: 'Montserrat', sans-serif;
   margin:10px 20px;/*top&bottom left&right*/
